@@ -14,15 +14,15 @@ https://yelpcamp-wsa4.onrender.com/campgrounds
 
 ## Features
 
-Campground Management: Create, edit, and delete campgrounds.
+- **Campground Management**: Create, edit, and delete campgrounds.
 
-Reviews and Images: Add and manage reviews and images for each campground.
+- **Reviews and Images**: Add and manage reviews and images for each campground.
 
-User Authentication: Register, log in, and manage user accounts.
+- **User Authentication**: Register, log in, and manage user accounts.
 
-Map Integration: View campgrounds on a map and access detailed information.
+-**Map Integration**: View campgrounds on a map and access detailed information.
 
-Smart Security: Advanced security features to protect against unauthorized access and hacking attempts.
+- **Smart Security**: Advanced security features to protect against unauthorized access and hacking attempts.
 
 
 ## Screenshots
