@@ -20,7 +20,7 @@ https://yelpcamp-wsa4.onrender.com/campgrounds
 
 - **User Authentication**: Register, log in, and manage user accounts.
 
--**Map Integration**: View campgrounds on a map and access detailed information.
+- **Map Integration**: View campgrounds on a map and access detailed information.
 
 - **Smart Security**: Advanced security features to protect against unauthorized access and hacking attempts.
 
